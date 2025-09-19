@@ -1,4 +1,4 @@
-#WORK IN PROGRESS - at the moment just a copy of spec-kit
+# WORK IN PROGRESS - at the moment just a copy of spec-kit
 
 <div align="center">
     <img src="./media/logo_small.webp"/>
